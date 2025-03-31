@@ -10,7 +10,7 @@
 - 📫 How to reach me: gangey.apatel@gmail.com
 - ⚡ see my work at https://www.gangeypatel.com
 
-- 🛠️ skills : HTML, CSS, JS, React, Java, Python, Selenium, Django, PostgreSQL, MongoDB, AWS and many more....
+- 🛠️ skills : Just give me a week.
 - 🤓 See my resume at https://bit.ly/Gangey_Patel_Resume
 
 
